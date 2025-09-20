@@ -1,0 +1,22 @@
+# Docker specific
+Dockerfile
+.dockerignore
+
+# Git
+.git
+.gitignore
+
+# Local environment
+.env.local
+
+# Dependencies
+node_modules
+
+# Build outputs
+.next
+.open-next
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
